@@ -36,7 +36,8 @@ import {
     Step,
     CheckboxGroup,
     Checkbox,
-    Upload
+    Upload,
+    DatePicker
 
 } from 'element-ui'
 //弹窗提示
@@ -51,6 +52,7 @@ Vue.use(Aside)
 Vue.use(Header)
 Vue.use(Menu)
 Vue.use(MenuItem)
+Vue.use(DatePicker)
 Vue.use(Submenu)
 Vue.use(Breadcrumb)
 Vue.use(BreadcrumbItem)
@@ -81,3 +83,4 @@ Vue.use(Upload)
 
 Vue.prototype.$message = Message;
 Vue.prototype.$confirm = MessageBox.confirm
+Vue.prototype.$prompt = MessageBox.prompt

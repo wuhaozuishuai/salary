@@ -1,7 +1,7 @@
 {
   "name": "vue-elementui-shopadmin",
   "version": "0.1.0",
-  "private": true,
+  "private": null,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,8 +10,10 @@
   "dependencies": {
     "axios": "^0.20.0",
     "core-js": "^3.6.5",
+    "echarts": "^5.0.2",
     "element-ui": "^2.4.5",
     "lodash": "^4.17.20",
+    "qs": "^6.9.6",
     "vue": "^2.6.11",
     "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.2.0",
@@ -51,5 +53,10 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "..",
+  "main": ".",
+  "repository": ".",
+  "author": ".",
+  "license": "."
 }
