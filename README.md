@@ -1,4 +1,5 @@
 # salary
+一个前后端分离的工资管理系统，后端链接:
 
 ## Project setup
 ```
