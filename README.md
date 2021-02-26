@@ -1,5 +1,5 @@
 # salary
-一个前后端分离的工资管理系统，后端链接:[serive](https://github.com/wuhaozuishuai/salaryService).
+一个前后端分离的工资管理系统，后端链接:[https://github.com/wuhaozuishuai/salaryService](https://github.com/wuhaozuishuai/salaryService).
 
 ## Project setup
 ```
